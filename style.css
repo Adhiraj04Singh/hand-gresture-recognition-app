@@ -1,0 +1,32 @@
+body {
+    background-color: lime;
+    color: black;
+}
+
+.stuff {
+    background-color: white;
+    border-radius: 15px;
+    border: 2px solid;
+    border-color: black;
+}
+
+#webcam_prev_show,
+#snap_display {
+    width: 350px;
+    height: 250px;
+    border: 2px solid;
+    border-color: black;
+}
+
+#heading {
+    height: 50;
+    font-size: large;
+}
+
+#result {
+    background-color: royalblue;
+    height: 150px;
+    color: black;
+    font-size: large;
+    text-align: center;
+}
